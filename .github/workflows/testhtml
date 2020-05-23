@@ -1,0 +1,27 @@
+##Azure App Services Lab
+
+#COPY and PASTE the code below into the editor
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to NetworkChuck Coffee!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Coffee Based Training</h1>
+<p>Pick up where you left off. Navigate to this link to start your training</p>
+
+<p>Coffee Based Training
+<a href="https://cbtnuggets.com">CBT Nuggets</a>.<br/>
+<img width='1000' class="center" src='https://networkchuck.com/wp-content/uploads/2019/02/NCcoffee.png'/>
+
+<p><em>
+</body>
+</html>
